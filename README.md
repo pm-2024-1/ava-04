@@ -11,7 +11,7 @@ Set<Integer> r1 = Conjuntos.uniao(c1, c2);
 System.out.println(r1); // [1, 2, 3, 4, 6, 9]
 
 Set<Integer> r2 = Conjuntos.interseccao(c1, c2);
-System.out.println(r1); // [6, 9]
+System.out.println(r2); // [6, 9]
 
 Set<Integer> r3 = Conjuntos.diferenca(c1, c2);
 System.out.println(r3); // [2, 4]
