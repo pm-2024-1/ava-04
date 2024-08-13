@@ -36,8 +36,6 @@ Sanitizar.filtro = List.of("teste", "exemplo");
 System.out.println(Sanitizar.censurar("este e um teste ou um exemplo")); // este e um ****e ou um ******o
 
 System.out.println(Sanitizar.censurar("este e um teste ou um exemplo", 2)); // este e um ***te ou um *****lo
-
-System.out.println(Sanitizar.censurar("este e um teste ou um exemplo", 10)); // este e um **ste ou um ****plo
 ```
 
 ## 3. Gerador Senhas
