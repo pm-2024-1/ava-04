@@ -1,25 +1,25 @@
 presentes = %w{
   Luã
-  David
+ David
   Bruno
-  Vinícius
+ Vinícius
   Gustavo
-  Evelyn
-  Douglas
-  JoãoS
+ Evelyn
+ Douglas
+ JoãoS
   Ronaldo
   Felipe
-  Fellipe
-  Alan
-  Jaifer
+ Fellipe
+ Alan
+ Jaifer
   Pablo
-  Arthur
-  Lucas
+ Arthur
+ Lucas
   Mathias
   Adriano
-  Daniel
-  Julia
-  JoãoB
+ Daniel
+ Julia
+ JoãoB
 }
 
 presentes.shuffle!
