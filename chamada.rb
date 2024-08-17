@@ -2,27 +2,27 @@
 github.com/pmifrs/ava-04
 
 presentes = %w{
-  Luã
- David
-  Bruno
- Vinícius
+OK  Luã
+  David
+OK  Bruno
+OK  Vinícius
   Gustavo
- Evelyn
- Douglas
- JoãoS
+OK  Evelyn
+OK  Douglas
+OK  JoãoS
   Ronaldo
   Felipe
- Fellipe
- Alan
- Jaifer
+OK  Fellipe
+OK  Alan
+  Jaifer
   Pablo
- Arthur
- Lucas
-  Mathias
+  Arthur
+OK  Lucas
+OK  Mathias
   Adriano
- Daniel
- Julia
- JoãoB
+  Daniel
+  Julia
+  JoãoB
 }
 
 presentes.shuffle!
